@@ -1,3 +1,3 @@
-#AI Chatgpt Landing Page
+# AI ChatGpt Landing Page
 
 
